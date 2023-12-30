@@ -1,6 +1,7 @@
-"# Socials: Social Media Application " is a social platform. The application is designed to connect users and facilitate the seamless sharing of digital content related to community, social, healthcare, and welfare services. Employing the MERN stack—MongoDB, ExpressJS, ReactJS, and NodeJS ,Javascript,HTML and CSS.Socials ensures a fully responsive web experience. 
+"Socials: Social Media Application " is a social platform. The application is designed to connect users and facilitate the seamless sharing of digital content related to community, social, healthcare, and welfare services. Employing the MERN stack—MongoDB, ExpressJS, ReactJS, and NodeJS ,Javascript,HTML and CSS.Socials ensures a fully responsive web experience. 
 
-## Features: Authorization, Authentication, Dark Mode, Like, Dislike, Add Friends and Add Comments.
+## Features: 
+Authorization, Authentication, Dark Mode, Like, Dislike, Add Friends and Add Comments.
 
 ## Technology used :
 - MongoDB: A document-oriented NoSQL database for storing application data.
